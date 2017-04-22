@@ -1,0 +1,7 @@
+Java Singleton Class Example Using Private Constructor
+
+- We can make constructor as private. So that We can not create an object outside of the class.
+
+- This property is useful to create singleton class in java.
+
+- Singleton pattern helps is to keep only one instance of a class at any time.
